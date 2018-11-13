@@ -1,0 +1,193 @@
+AFM 	Germany 	1952 	AFM- Bristol, AFM-BMW
+AGS 	France 	1986-1991 	AGS-Ford
+Alfa Romeo 	Italy 	1950-1985 	Alfa Romeo
+Alta 	  	  	Alta
+Arrows 	United Kingdom 	1978-2002 	Arrows, Arrows-Cosworth, Arrows-Asiatech
+  	  	  	Arrows-Supertec, Arrows-Yamaha
+  	  	  	Arrows-Megatron, Arrows-BMW, Arrows-Ford
+Aston Martin  	United Kingdom 	1959-1960 	Aston Martin
+ATS 	Germany 	1977-1984 	ATS-BMW, ATS-Ford, ATS
+  	  	  	 
+
+BAR 	United Kingdom 	1999-2005 	BAR-Honda, BAR-Supertec
+Behra 	France 	1959-1960 	Behra-Porsche-Porsche
+Benetton 	United Kingdom 	1986-2001 	Benetton-Playlife, Benetton-Renault
+	  	  	Benetton-Ford, Benetton-BMW
+BMW 	Germany 	1952-2009 	BMW, BMW Sauber
+Brabham 	United Kingdom 	1956-1992 	Brabham-Judd, Brabham-Yamaha, Brabham-BMW
+  	  	  	Brabham-Ford, Brabham-Repco
+  			Brabham-Climax, Brabham-BRM
+Brawn GP 	United Kingdom 	2009 	Brawn GP
+BRM 	United Kingdom 	1951-1977 	BRM, BRM-Climax
+BRP 	United Kingdom 	1958-1964 	BRP-BRM
+  	  	  	 
+Coloni 	Italy 	1987-1991 	Coloni-Ford
+Connaught 	United Kingdom 	1952-1959 	Connaught-Francis
+Cooper 	United Kingdom 	1953-1968 	Cooper-BRM, Cooper-Maserati, Cooper-Ferrari
+  	  	  	Cooper-Climax, Cooper-Maserati
+  	  	  	Cooper-Castellotti, Cooper-Borgward
+  	  	  	Cooper-Climax F2, Cooper-Bristol, Cooper-Alta
+  	  	  	 
+
+Dallara 	Italy 	1988-1992 	Dallara-Ferrari, Dallara-Judd, Dallara-Ford
+Deidt 	USA 	1950-1952 	Deidt-Offenhauser
+Dunn 	USA 	1957-1959 	Dunn-Offenhauser
+  	  	  	 
+Eagle 	  	1966-1969 	Eagle-Weslake, Eagle-Climax
+Emeryson 	United Kingdom 	1956-1962 	Emeryson-Climax
+ENB 	Belgium 	1962 	ENB-Maserati
+Ensign 	United Kingdom 	1973-1982 	Ensign-Ford
+Epperly 	USA 	1955-1960 	Epperly-Offenhauser
+ERA 	United Kingdom 	1952 	ERA
+Euro Brun 	Italy 	1988-1990 	Euro Brun-Judd, Euro Brun-Ford
+Ewing 	USA 	1950-1960 	Ewing-Offenhauser
+  	  	  	 
+Ferrari 	Italy 	1950-2009 	Ferrari
+Fittipaldi 	Brazil 	1975-1982 	Fittipaldi-Ford
+Fondmetal 	Italy 	1991-1992 	Fondmetal-Ford
+Footwork 	  	1990-1995 	Footwork-Hart, Footwork-Ford, Footwork-Mugen-Honda
+	  	  	Footwork-Porsche
+Force India 	India 	2008-2009 	Force India-Mercedes, Force India-Ferrari
+Forti 	Italy 	1995-1996 	Forti-Ford
+Frazer-Nash 	  	1952 	Frazer-Nash-Bristol
+  	  	  	 
+Gilby 	United Kingdom 	1954-1962 	Gilby-Climax
+Gordini 	France 	1950-1956 	Gordini
+  	  	  	 
+Hesketh 	United Kingdom 	1973-1978 	Hesketh-Ford
+Honda 	Japan 	1964-2007 	Honda
+HWM 	United Kingdom 	1951-1954 	HWM-Alta
+  	  	  	 
+
+Iso Marlboro 	  	1973 	Iso Marlboro-Ford
+  	  	  	 
+Jaguar 	United Kingdom 	2000-2004 	Jaguar-Cosworth
+JBW 	United Kingdom 	1959-1961 	JBW-Maserati
+Jordan 	United Kingdom 	1991-2005 	Jordan-Toyota, Jordan-Ford, Jordan-Honda,
+  	  	  	Jordan-Mugen-Honda, Jordan-Peugeot, Jordan-Hart
+  	  	  	 
+
+Kurtis Kraft 	USA 	1950 	Kurtis Kraft-Novi, Kurtis Kraft-Offenhauser
+Kuzma 	USA 	1951-1960 	Kuzma-Offenhauser
+  	  	  	 
+Lambo 	Italy 	1991 	Lambo-Lamborghini
+Lancia 	Italy 	1954-1955 	Lancia
+Larrousse 	France 	1987-1994 	Larrousse-Ford, Larrousse-Lamborghini,
+LDS 	South-Africa 	1962-1968 	LDS- Alfa Romeo
+Langley 	USA 	1950 	Langley-Offenhauser
+Lesovsky 	USA 	1950-1960 	Lesovsky-Offenhauser
+Leyton House 	United Kingdom 	1990-1991 	Leyton House-Ilmor, Leyton House-Judd
+Life 	Italy 	1990 	Life
+Ligier 	France 	1976-1996 	Ligier-Mugen-Honda, Ligier-Renault
+  	  	  	Ligier-Lamborghin, iLigier-Ford, Ligier-Judd
+  	  	  	Ligier-Megatron, Ligier-Matra
+Lola 	United Kingdom 	1967-1997 	
+
+Lola-Ferrari, Lola-Lamborghini, Lola-Ford
+  	  	  	Lola-Hart, Lola-BMW, Lola-Climax
+Lotus 	United Kingdom 	1958-1994 	
+
+Lotus-Mugen-Honda, Lotus-Ford, Lotus-Judd
+	  	  	Lotus-Lamborghini, Lotus-Honda, Lotus-Renault
+	  	  	Lotus-Climax, Lotus-BRM
+	  	  	 
+March 	United Kingdom 	1970-1992 	March-Ilmor, March-Judd, March-Ford
+  	  	  	March-Alfa Romeo
+Marchese 	USA 	1950-1951 	Marchese-Offenhauser
+Maserati 	Italy 	1950-1957 	Maserati, Maserati-Plate, Maserati-Offenhauser
+Matra 	France 	1966-1972 	Matra-Ford, Matra
+McLaren 	United Kingdom 	1966- 2009 	McLaren-Mercedes, McLaren-Ford
+	  	  	McLaren-Honda, McLaren-TAG
+  			McLaren-Alfa Romeo, McLaren-BRM
+			McLaren-Serenissima, McLaren-Peugeot
+Mercedes 	Germany 	1954-1955 	Mercedes
+Meskowski 	USA 	1960 	Meskowski-Offenhauser
+MF1 	Russia 	2006 	MF1-Toyota
+Minardi 	Italy 	1985-2005 	Minardi-Cosworth, Minardi-Asiatech
+			Minardi-European, Minardi-Fondmetal,
+	  	  	Minardi-Ford, Minardi-Hart, Minardi-Lamborghini
+	  	  	Minardi-Ferrari, Minardi-Motori Moderni
+Moda 	Italy 	1992 	Andrea Moda Formula
+Moore 	USA 	1950-1959 	Moore-Offenhauser
+	  	  	 
+Nichels 	USA 	1950-1954 	Nichels-Offenhauser
+	  	  	 
+
+Olson 	USA 	1950 	Olson-Offenhauser
+Onyx 	United Kingdom 	1989-1990 	Onyx-Ford
+Osella 	Italy 	1980-1990 	Osella, Osella-Alfa Romeo, Osella-Ford
+Osca 	Italy 	1951-1959 	Osca
+  	  	  	 
+  	  	  	 
+
+Pacific 	United Kingdom 	1994-1995 	Pacific-Ilmor
+Pankratz 	USA 	1954-1955 	Pankratz-Offenhauser
+Parnelli 	USA 	1974-1976 	Parnelli-Ford
+Penske 	USA 	1974-1976 	Penske-Ford
+Phillips 	USA 	1954-1960 	Phillips-Offenhauser
+Porsche 	Germany 	1957-1962 	Porsche
+Prost 	France 	1997-2001 	Prost-Acer, Prost-Peugeot, Prost-Mugen-Honda
+  	  	  	 
+  	  	  	 
+Rae 	USA 	1950 	Rae-Offenhauser
+RAM 	United Kingdom 	1976-1985 	RAM-Hart, RAM-Ford
+Renault 	France 	1977-2009 	Renault
+RBR 	Austria  	2005-2009 	RBR-Renault. RBR-Ferrari, RBR-Cosworth
+Rial 	Germany 	1988-1989 	Rial-Ford
+	  	  	 
+
+Sauber 	Switzerland 	1993-2005 	Sauber-BMW, Sauber-Petronas, Sauber-Ford
+	  	  	Sauber-Mercedes, Sauber
+Scarab 	  	1960 	Scarab
+Schroeder 	USA 	1951-1955 	Schroeder-Offenhauser
+Scirocco 	United Kingdom 	1963-1963 	Scirocco-BRM
+Shadow 	USA 	1973-1980 	Shadow-Ford
+Sherman 	USA 	1951-1952 	Sherman-Offenhauser
+Simca-Gordini 	  	1950-1953 	Simca-Gordini-Gordini, Simca-Gordini
+Simtek 	United Kingdom 	1994-1995 	Simtek-Ford
+Spirit 	United Kingdom 	1983-1985 	Spirit-Hart, Spirit-Honda
+Spyker 	Netherlands 	2007 	Etihad Aldar Spyker Formula One Team
+Stebro 	Canada 	1963 	Stebro-Ford
+Stevens 	USA 	1950-1956 	Stevens-Offenhauser
+Stewart 	United Kingdom 	1997-1999 	Stewart-Ford
+STR 	Italy 	2006-2009 	STR-Ferrari, STR-Cosworth
+Super Aguri 	Japan 	2006-2007 	Super Aguri-Honda
+Surtees 	United Kingdom 	1970-1978 	Surtees-Ford
+  	  	  	 
+  	  	  	 
+
+Talbot 	France 	1950 	Talbot-Lago-Talbot
+Theodore 	United Kingdom 	1976-1983 	Theodore-Ford
+Token 	United Kingdom 	1974 	Token-Ford
+Toleman 	United Kingdom 	1981-1985 	Toleman-Hart
+Toyota 	Japan 	2002-2009 	Toyota
+Trevis 	USA 	1951-1960 	Trevis-Offenhauser
+Trojan 	United Kingdom 	1974 	Trojan-Ford
+Tyrrell 	United Kingdom 	1966-1998 	Tyrrell-Yamaha, Tyrrell-llmor, Tyrrell-Honda
+	  	  	Tyrrell-Renault, Tyrrell-Ford
+  	  	  	 
+
+  	  	  	 
+Vanwall 	United Kingdom 	1951-1960 	Vanwall
+Veritas 	Germany 	1951-1953 	Veritas, Veritas-BMW
+  	  	  	 
+
+Watson 	USA 	1950-1960 	Watson-Offenhauser
+Wetteroth 	USA 	1950 	Wetteroth-Offenhauser
+Williams 	United Kingdom 	1969-2009 	Williams-Cosworth, Williams-BMW
+  	  	  	Williams-Supertec, Williams-Mecachrome
+  	  	  	Williams-Renault, Williams-Judd
+  	  	  	Williams-Honda, Williams-Ford
+Zakspeed 	Germany 	1985-1989 	Zakspeed
+
+
+
+
+
+
+
+
+
+
+
+
